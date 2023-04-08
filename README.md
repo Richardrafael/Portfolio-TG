@@ -25,3 +25,9 @@ Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona n
 | ![Bootstrap](https://img.shields.io/badge/bootstrap-%2302569B.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=blueviolet) | ✔️  |     |     |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ✔️  |     |     |
 |![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ✔️  |     |     |
+
+
+
+##Meus Projetos
+
+[📑 API 1](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API1.md)
