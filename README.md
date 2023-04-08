@@ -10,7 +10,7 @@ Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona n
 ## Contatos
 * [GIT](https://github.com/Richardrafael)
 * [LinkedIn](https://www.linkedin.com/in/richardsoaress/)
-* [Whatsapp] (https://api.whatsapp.com/send?phone=5512997119071)
+* [Whatsapp](https://api.whatsapp.com/send?phone=5512997119071)
 
 
 ## Principais Conhecimentos
