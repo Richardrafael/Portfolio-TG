@@ -30,4 +30,4 @@ Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona n
 
 ##Meus Projetos
 
-[📑 API 1](https://github.com/JulianaMaria-Lab/portfolio-TG/blob/main/API1.md)
+[📑 API 1](https://github.com/Richardrafael/portfolio-TG/blob/main/API1.md)
