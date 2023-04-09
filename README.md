@@ -2,8 +2,8 @@
 Repositório destinado ao TG (Trabalho de graduação) que possui a proposito de documentar as praticas APIs realizadas durante o curso de  Análise e desenvolvimento de sistemas    
 
 # Richard Rafael Sacramento Soares
-![richard](https://github.com/Richardrafael.png)
-<img src="https://github.com/Richardrafael.png" alt="descrição da imagem" width="50%">
+<!-- ![richard](https://github.com/Richardrafael.png) -->
+<img src="https://github.com/Richardrafael.png" alt="descrição da imagem" width="10%">
 
 ## Introdução
 
