@@ -3,6 +3,8 @@ Repositório destinado ao TG (Trabalho de graduação) que possui a proposito de
 
 # Richard Rafael Sacramento Soares
 ![richard](https://github.com/Richardrafael.png)
+<img src="https://github.com/Richardrafael.png" alt="descrição da imagem" width="50%">
+
 ## Introdução
 
 Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona norte . Em 2021 tive o prazer de passar no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas , sou formado em tecnico de Automação Industrial pelo Instituto federal curso que realizei junto ao ensino medio , ainda nâo trabalhei na area de Ti 
