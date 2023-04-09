@@ -3,7 +3,7 @@ Repositório destinado ao TG (Trabalho de graduação) que possui a proposito de
 
 # Richard Rafael Sacramento Soares
 <!-- ![richard](https://github.com/Richardrafael.png) -->
-<img src="https://github.com/Richardrafael.png" alt="descrição da imagem" width="10%">
+<img src="https://github.com/Richardrafael.png" alt="descrição da imagem" width="30%" heigth="30%">
 
 ## Introdução
 
