@@ -1,5 +1,5 @@
 # Portfolio-TG
-Repositório destinado ao TG (Trabalho de graduação) que possui a proposito de documentar as praticas APIs realizadas durante o curso de  Análise e desenvolvimento de sistemas    
+Repositório destinado ao TG (Trabalho de graduação) que possui a propósito de documentar as práticas APIs realizadas durante o curso de  Análise e desenvolvimento de sistemas    
 
 # Richard Rafael Sacramento Soares
 <!-- ![richard](https://github.com/Richardrafael.png) -->
@@ -7,7 +7,7 @@ Repositório destinado ao TG (Trabalho de graduação) que possui a proposito de
 
 ## Introdução
 
-Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona norte . Em 2021 tive o prazer de passar no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas , sou formado em tecnico de Automação Industrial pelo Instituto federal curso que realizei junto ao ensino medio , ainda nâo trabalhei na area de Ti 
+Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona norte . Em 2021 tive o prazer de passar no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas , sou formado em técnico de Automação Industrial pelo Instituto federal , curso que realizei junto ao ensino medio , ainda não trabalhei na area de Ti 
 
 ## Contatos
 * [GIT](https://github.com/Richardrafael)
