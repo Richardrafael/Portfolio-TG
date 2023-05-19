@@ -35,3 +35,6 @@ Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona n
 [📑 API 2021-1](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2021-1.md)<br>
 [📑 API 2021-2](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2021-2.md)<br>
 [📑 API 2022-3](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-3.md)<br>
+[📑 API 2022-4](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-4.md)<br>
+[📑 API 2023-4](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-5.md)<br>
+
