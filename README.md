@@ -7,7 +7,7 @@ Repositório destinado ao TG (Trabalho de graduação) que possui a propósito d
 
 ## Introdução
 
-Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona norte . Em 2021 tive o prazer de passar no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas , sou formado em técnico de Automação Industrial pelo Instituto federal , curso que realizei junto ao ensino medio , ainda não trabalhei na area de Ti 
+Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona norte . Em 2021 tive o prazer de passar no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas , sou formado em técnico de Automação Industrial pelo Instituto federal , curso que realizei junto ao ensino medio , em outrubro de 2023 começei a estagiar na TT&T onde atuo como desenvolvedor Frontend.
 
 ## Contatos
 * [GIT](https://github.com/Richardrafael)
@@ -37,4 +37,5 @@ Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona n
 [📑 API 2022-1](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-3.md)<br>
 [📑 API 2022-2](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-4.md)<br>
 [📑 API 2023-1](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-5.md)<br>
+[📑 API 2023-2](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-6.md)<br>
 
