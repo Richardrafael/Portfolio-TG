@@ -9,7 +9,9 @@ Repositório destinado ao TG (Trabalho de graduação) que possui a propósito d
 
 ## Introdução
 
-Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona norte . Em 2021 tive o prazer de passar no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas , sou formado em técnico de Automação Industrial pelo Instituto federal , curso que realizei junto ao ensino medio , em outrubro de 2023 começei a estagiar na TT&T onde atuo como desenvolvedor Frontend.
+Meu nome é Richard, tenho 19 anos e resido na zona norte de São José dos Campos. Em 2021, tive a satisfação de ser aprovado no vestibular da Fatec no curso de Análise e Desenvolvimento de Sistemas. Anteriormente, obtive minha formação técnica em Automação Industrial pelo Instituto Federal, concluindo o curso simultaneamente ao ensino médio.
+
+Desde outubro de 2023, iniciei minha jornada profissional como estagiário na TT&T, desempenhando o papel de desenvolvedor Frontend. Estou entusiasmado com as oportunidades de aprendizado e contribuição que essa experiência profissional tem proporcionado.
 
 ## Contatos
 
@@ -38,9 +40,9 @@ Sou o Richard atualmente tenho 19 anos , moro em São José dos Campos na zona n
 
 ## Meus Projetos
 
-[📑 API 2021-1](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2021-1.md)<br>
-[📑 API 2021-2](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2021-2.md)<br>
-[📑 API 2022-1](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-3.md)<br>
-[📑 API 2022-2](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-4.md)<br>
-[📑 API 2023-1](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-5.md)<br>
-[📑 API 2023-2](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-6.md)<br>
+[📑 API 2021-1 Vó Maria Felix](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2021-1.md)<br>
+[📑 API 2021-2 JetSoft](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2021-2.md)<br>
+[📑 API 2022-1 Tecsus](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-3.md)<br>
+[📑 API 2022-2 2Rp](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2022-4.md)<br>
+[📑 API 2023-1 IACIT](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-5.md)<br>
+[📑 API 2023-2 Pro4Tech](https://github.com/Richardrafael/Portfolio-TG/blob/main/Api-2023-6.md)<br>
